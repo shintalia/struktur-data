@@ -1,0 +1,13 @@
+@startmindmap (tipe data)
+* tipe data
+** primitif
+*** integer
+*** float
+*** char
+*** boolean
+** non-primitif
+*** array
+*** struct
+*** union
+*** pointer
+@endmindmap
