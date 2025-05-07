@@ -1,0 +1,17 @@
+# Pertambahan
+a = 10
+b = 5
+hasil_tambah = a + b
+print("Hasil Pertambahan:", hasil_tambah)
+
+# Pengurangan
+hasil_kurang = a - b
+print("Hasil Pengurangan:", hasil_kurang)
+
+# Perkalian
+hasil_kali = a * b
+print("Hasil Perkalian:", hasil_kali)
+
+# Pembagian
+hasil_bagi = a / b
+print("Hasil Pembagian:", hasil_bagi)
